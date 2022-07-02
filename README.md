@@ -1,3 +1,15 @@
+
+![wordCount](https://user-images.githubusercontent.com/94731166/177016388-5233db2b-1ae2-4b26-ada1-071b3157a3af.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
